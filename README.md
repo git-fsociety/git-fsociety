@@ -5,12 +5,12 @@
 - 🌱 Estudando Python, e Docker.
 - 🍺 Estou aprendendo a fazer minha propria cerveja artesanal.
 
-
-<div>
+ <div>
   <a href="https://git-fsociety.github.io/fbastos.github.io">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=git-fsociety&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-fsociety&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div>  
+  
 
   
 <div style="display: inline_block"><br>
@@ -20,9 +20,9 @@
   <img align="center" alt="flavio-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>
 
+##
   
-<div> 
- 
+<div>
   <a href="https://www.instagram.com/flavioferreirabastos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/J629DjCm" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:flavio1605@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
