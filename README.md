@@ -1,16 +1,33 @@
-### Hi there 👋
+### Olá! Eu sou Flavio Bastos 👋
 
-<!--
-**git-fsociety/git-fsociety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalho administrando aplicações de meios de pagamento na Fiserv Brasil.
+- 🌱 Estudando Python, e Docker.
+- 🍺 Estou aprendendo a fazer minha propria cerveja artesanal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+  <a href="https://git-fsociety.github.io/fbastos.github.io">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=git-fsociety&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-fsociety&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="flavio-python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="flavio-bash" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
+  <img align="center" alt="flavio-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="flavio-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+</div>
+
+  
+<div> 
+ 
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/J629DjCm" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:flavio1605@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
