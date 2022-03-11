@@ -1,7 +1,7 @@
 ### Olá! Eu sou Flavio Bastos 👋
 
 
-- 🔭 Atualmente trabalho como analista de sitemas na Matera Systems.
+- 🔭 Atualmente trabalho como Analista de Sitemas na Matera Systems.
 - 🌱 Estudando Python, e Docker, Azure.
 - 🍺 Estou aprendendo a fazer minha propria cerveja artesanal.
 
