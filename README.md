@@ -1,8 +1,8 @@
 ### Olá! Eu sou Flavio Bastos 👋
 
 
-- 🔭 Atualmente trabalho administrando aplicações de meios de pagamento na Fiserv Brasil.
-- 🌱 Estudando Python, e Docker.
+- 🔭 Atualmente trabalho como analista de sitemas na Matera Systems.
+- 🌱 Estudando Python, e Docker, Azure.
 - 🍺 Estou aprendendo a fazer minha propria cerveja artesanal.
 
  <div>
