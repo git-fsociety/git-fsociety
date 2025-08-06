@@ -22,7 +22,7 @@
   <img align="center" alt="flavio-bash" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
   <img align="center" alt="flavio-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="flavio-git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="flavio-git" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain-wordmark.svg">
+  <img align="center" alt="flavio-git" height="80" width="90" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain-wordmark.svg">
 </div>
 
 ##
