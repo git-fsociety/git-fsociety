@@ -1,12 +1,12 @@
 ### Olá! Eu sou Flavio Bastos 👋
 
-    💻 Atuo como Analista de Sistemas na Matera Systems, onde ajudo a desenvolver soluções tecnológicas que fazem a diferença.
+    - 💻 Atuo como Analista de Sistemas na Matera Systems, onde ajudo a desenvolver soluções tecnológicas que fazem a diferença.
 
-    🚀 Estou sempre em busca de evolução profissional, atualmente estudando Python, Docker, AWS, Kubernetes, Ansible e Git.
+    - 🚀 Estou sempre em busca de evolução profissional, atualmente estudando Python, Docker, AWS, Kubernetes, Ansible e Git.
 
-    ☁️ Sou certificado AWS Certified Cloud Practitioner, com uma base sólida em computação em nuvem e boas práticas na AWS.
+    - ☁️ Sou certificado AWS Certified Cloud Practitioner, com uma base sólida em computação em nuvem e boas práticas na AWS.
 
-    🍺 Nas horas vagas, me aventuro na produção de cerveja artesanal — aprendendo e experimentando minhas próprias receitas!
+    - 🍺 Nas horas vagas, me aventuro na produção de cerveja artesanal — aprendendo e experimentando minhas próprias receitas!
 
  <div>
   <a href="https://git-fsociety.github.io/fbastos.github.io">
