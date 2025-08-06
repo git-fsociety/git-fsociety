@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente atuo como Analista de Sistemas na Matera Systems, contribuindo com soluções tecnológicas inovadoras.
-- 🌱 Em constante evolução profissional, estou estudando Python, Docker, Azure e me aprofundando em serviços de nuvem.
+- 🌱 Em constante evolução profissional, estou estudando Python, Docker, AWS, Kubernetes, Ansible Git.
 - ✅ Possuo a certificação AWS Certified Cloud Practitioner, que reforça minha base sólida em conceitos de cloud computing e boas práticas na AWS.
 - 🍺 Nas horas vagas, me aventuro no mundo da cerveja artesanal e estou aprendendo a produzir minha própria receita!
 
